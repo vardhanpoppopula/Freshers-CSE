@@ -1,0 +1,1247 @@
+{
+  "students": [
+    {
+      "id": "s-cse-01",
+      "rollNumber": "23A91A0501",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-02",
+      "rollNumber": "23A91A0502",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-03",
+      "rollNumber": "23A91A0503",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-04",
+      "rollNumber": "23A91A0504",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-05",
+      "rollNumber": "23A91A0505",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-06",
+      "rollNumber": "23A91A0506",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-07",
+      "rollNumber": "23A91A0507",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-08",
+      "rollNumber": "23A91A0508",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-09",
+      "rollNumber": "23A91A0509",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-10",
+      "rollNumber": "23A91A0510",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-11",
+      "rollNumber": "23A91A0511",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-12",
+      "rollNumber": "23A91A0512",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-13",
+      "rollNumber": "23A91A0513",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-14",
+      "rollNumber": "23A91A0514",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-15",
+      "rollNumber": "23A91A0515",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-16",
+      "rollNumber": "23A91A0516",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-17",
+      "rollNumber": "23A91A0517",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-18",
+      "rollNumber": "23A91A0518",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-19",
+      "rollNumber": "23A91A0519",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-20",
+      "rollNumber": "23A91A0520",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-21",
+      "rollNumber": "23A91A0521",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-22",
+      "rollNumber": "23A91A0522",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-23",
+      "rollNumber": "23A91A0523",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-24",
+      "rollNumber": "23A91A0524",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-25",
+      "rollNumber": "23A91A0525",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-26",
+      "rollNumber": "23A91A0526",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-27",
+      "rollNumber": "23A91A0527",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-28",
+      "rollNumber": "23A91A0528",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-29",
+      "rollNumber": "23A91A0529",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-30",
+      "rollNumber": "23A91A0530",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-31",
+      "rollNumber": "23A91A0531",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-32",
+      "rollNumber": "23A91A0532",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-33",
+      "rollNumber": "23A91A0533",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-34",
+      "rollNumber": "23A91A0534",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-35",
+      "rollNumber": "23A91A0535",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-36",
+      "rollNumber": "23A91A0536",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-37",
+      "rollNumber": "23A91A0537",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-38",
+      "rollNumber": "23A91A0538",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-39",
+      "rollNumber": "23A91A0539",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-40",
+      "rollNumber": "23A91A0540",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-41",
+      "rollNumber": "23A91A0541",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-42",
+      "rollNumber": "23A91A0542",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-43",
+      "rollNumber": "23A91A0543",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-44",
+      "rollNumber": "23A91A0544",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-45",
+      "rollNumber": "23A91A0545",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-46",
+      "rollNumber": "23A91A0546",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-47",
+      "rollNumber": "23A91A0547",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-48",
+      "rollNumber": "23A91A0548",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-49",
+      "rollNumber": "23A91A0549",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-50",
+      "rollNumber": "23A91A0550",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-51",
+      "rollNumber": "23A91A0551",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-52",
+      "rollNumber": "23A91A0552",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-53",
+      "rollNumber": "23A91A0553",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-54",
+      "rollNumber": "23A91A0554",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-55",
+      "rollNumber": "23A91A0555",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-56",
+      "rollNumber": "23A91A0556",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-57",
+      "rollNumber": "23A91A0557",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-58",
+      "rollNumber": "23A91A0558",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-59",
+      "rollNumber": "23A91A0559",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cse-60",
+      "rollNumber": "23A91A0560",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-01",
+      "rollNumber": "23A91A0601",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-02",
+      "rollNumber": "23A91A0602",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-03",
+      "rollNumber": "23A91A0603",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-04",
+      "rollNumber": "23A91A0604",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-05",
+      "rollNumber": "23A91A0605",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-06",
+      "rollNumber": "23A91A0606",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-07",
+      "rollNumber": "23A91A0607",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-08",
+      "rollNumber": "23A91A0608",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-09",
+      "rollNumber": "23A91A0609",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-10",
+      "rollNumber": "23A91A0610",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-11",
+      "rollNumber": "23A91A0611",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-12",
+      "rollNumber": "23A91A0612",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-13",
+      "rollNumber": "23A91A0613",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-14",
+      "rollNumber": "23A91A0614",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-15",
+      "rollNumber": "23A91A0615",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-16",
+      "rollNumber": "23A91A0616",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-17",
+      "rollNumber": "23A91A0617",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-18",
+      "rollNumber": "23A91A0618",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-19",
+      "rollNumber": "23A91A0619",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-20",
+      "rollNumber": "23A91A0620",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-21",
+      "rollNumber": "23A91A0621",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-22",
+      "rollNumber": "23A91A0622",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-23",
+      "rollNumber": "23A91A0623",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-24",
+      "rollNumber": "23A91A0624",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-25",
+      "rollNumber": "23A91A0625",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-26",
+      "rollNumber": "23A91A0626",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-27",
+      "rollNumber": "23A91A0627",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-28",
+      "rollNumber": "23A91A0628",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-29",
+      "rollNumber": "23A91A0629",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-cst-30",
+      "rollNumber": "23A91A0630",
+      "department": "CST",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-01",
+      "rollNumber": "23A91A1201",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-02",
+      "rollNumber": "23A91A1202",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-03",
+      "rollNumber": "23A91A1203",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-04",
+      "rollNumber": "23A91A1204",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-05",
+      "rollNumber": "23A91A1205",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-06",
+      "rollNumber": "23A91A1206",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-07",
+      "rollNumber": "23A91A1207",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-08",
+      "rollNumber": "23A91A1208",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-09",
+      "rollNumber": "23A91A1209",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-10",
+      "rollNumber": "23A91A1210",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-11",
+      "rollNumber": "23A91A1211",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-12",
+      "rollNumber": "23A91A1212",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-13",
+      "rollNumber": "23A91A1213",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-14",
+      "rollNumber": "23A91A1214",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-15",
+      "rollNumber": "23A91A1215",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-16",
+      "rollNumber": "23A91A1216",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-17",
+      "rollNumber": "23A91A1217",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-18",
+      "rollNumber": "23A91A1218",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-19",
+      "rollNumber": "23A91A1219",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-20",
+      "rollNumber": "23A91A1220",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-21",
+      "rollNumber": "23A91A1221",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-22",
+      "rollNumber": "23A91A1222",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-23",
+      "rollNumber": "23A91A1223",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-24",
+      "rollNumber": "23A91A1224",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-25",
+      "rollNumber": "23A91A1225",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-26",
+      "rollNumber": "23A91A1226",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-27",
+      "rollNumber": "23A91A1227",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-28",
+      "rollNumber": "23A91A1228",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-29",
+      "rollNumber": "23A91A1229",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-it-30",
+      "rollNumber": "23A91A1230",
+      "department": "IT",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-demo-1",
+      "rollNumber": "23A91A0001",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-demo-2",
+      "rollNumber": "23A91A0002",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-demo-3",
+      "rollNumber": "23A91A0003",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-demo-4",
+      "rollNumber": "24A91A0501",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    },
+    {
+      "id": "s-demo-5",
+      "rollNumber": "24A91A0502",
+      "department": "CSE",
+      "batch": "2023-2027",
+      "active": true,
+      "createdAt": "2026-10-07T18:58:19.163Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "title": "Official Invitation Card Portal Activated",
+      "content": "Eligible 1st-year students of CSE, CST, and IT departments can now generate their personalized NEXORA VIP invitations using their authorized college Roll Number.",
+      "category": "IMPORTANT",
+      "priority": "HIGH",
+      "published": true,
+      "date": "October 07, 2026",
+      "createdAt": "2026-10-07T18:58:19.053Z"
+    },
+    {
+      "id": "ann-2",
+      "title": "Flash Mob & Pre-Fest Energy Unleashed",
+      "content": "Catch the student organizing crew at the Central Amphitheatre tomorrow at 1:15 PM for an electrifying sneak peek of NEXORA 2K26!",
+      "category": "ACTIVITIES",
+      "priority": "NORMAL",
+      "published": true,
+      "date": "October 09, 2026",
+      "createdAt": "2026-10-07T18:58:19.053Z"
+    },
+    {
+      "id": "ann-3",
+      "title": "Special Transport & Shuttle Schedule for Hostellers",
+      "content": "Dedicated campus shuttles will be operating between College Main Gate, Hostel Blocks, and YNS Auditorium from 8:30 AM onwards.",
+      "category": "VENUE",
+      "priority": "NORMAL",
+      "published": true,
+      "date": "October 11, 2026",
+      "createdAt": "2026-10-07T18:58:19.053Z"
+    }
+  ],
+  "notices": [
+    {
+      "id": "not-1",
+      "title": "Mandatory College ID Card Requirement",
+      "content": "All students must carry their physical or digital Sri Vasavi Engineering College ID card alongside their printed/digital NEXORA invitation card for auditorium entry.",
+      "priority": "MANDATORY",
+      "published": true,
+      "createdAt": "2026-10-07T18:58:19.053Z"
+    },
+    {
+      "id": "not-2",
+      "title": "Auditorium Entry Gates & Reporting Timeline",
+      "content": "Entry doors at YNS Auditorium open promptly at 9:00 AM. Students are strictly advised to take their seats by 9:20 AM to avoid inaugural commotion.",
+      "priority": "MANDATORY",
+      "published": true,
+      "createdAt": "2026-10-07T18:58:19.053Z"
+    },
+    {
+      "id": "not-3",
+      "title": "Authorized Department Verification",
+      "content": "NEXORA 2K26 is exclusively organized for CSE, CST, and IT department freshers and faculty. Non-departmental entries require prior organizing committee clearance.",
+      "priority": "CRITICAL",
+      "published": true,
+      "createdAt": "2026-10-07T18:58:19.053Z"
+    },
+    {
+      "id": "not-4",
+      "title": "Digital Code of Conduct & Photography Policy",
+      "content": "Tag @nexora2k26 and use #NexoraFreshers on your social stories! Please respect the performers during the inaugural lamp lighting and formal addresses.",
+      "priority": "INFO",
+      "published": true,
+      "createdAt": "2026-10-07T18:58:19.053Z"
+    }
+  ],
+  "schedule": [
+    {
+      "id": "sch-1",
+      "time": "09:30 AM",
+      "title": "Grand Arrival & Red Carpet Entry",
+      "description": "Welcome of freshers with cyber wristbands, photo-booth moments, and batch mingling at the YNS Promenade.",
+      "category": "CEREMONY",
+      "order": 1,
+      "published": true
+    },
+    {
+      "id": "sch-2",
+      "time": "09:50 AM",
+      "title": "Traditional Lamp Lighting & Inauguration",
+      "description": "Dignitary welcome by HODs of CSE, CST, and IT, followed by the auspicious inaugural address.",
+      "category": "CEREMONY",
+      "order": 2,
+      "published": true
+    },
+    {
+      "id": "sch-3",
+      "time": "10:20 AM",
+      "title": "Ice-Breakers & Freshman Spotlight",
+      "description": "Interactive stage spotlight, fun trivia, crowd polls, and introduction of our brightest new minds.",
+      "category": "INTERACTION",
+      "order": 3,
+      "published": true
+    },
+    {
+      "id": "sch-4",
+      "time": "11:15 AM",
+      "title": "Electrifying Cultural Extravaganza",
+      "description": "High-octane fusion dance battles, live musical acoustics, dramatic skits, and student band performances.",
+      "category": "CULTURAL",
+      "order": 4,
+      "published": true
+    },
+    {
+      "id": "sch-5",
+      "time": "02:00 PM",
+      "title": "Mr. & Ms. Fresher 2K26 Grand Finale",
+      "description": "Rounds of wit, talent, and runway charisma crowned by our distinguished faculty panel.",
+      "category": "CULTURAL",
+      "order": 5,
+      "published": true
+    },
+    {
+      "id": "sch-6",
+      "time": "03:30 PM",
+      "title": "Cyber DJ Celebration & Festival Climax",
+      "description": "Immersive light spectacle, festival music drops, and celebration of the new family journey.",
+      "category": "CELEBRATION",
+      "order": 6,
+      "published": true
+    }
+  ],
+  "settings": {
+    "eventName": "Freshers Party 2K26",
+    "eventTitle": "NEXORA",
+    "tagline": "NEW FACES ✦ NEW VIBE ✦ ONE FAMILY",
+    "collegeName": "Sri Vasavi Engineering College",
+    "collegeType": "Autonomous",
+    "location": "Tadepalligudem, Andhra Pradesh",
+    "departments": "CSE | CST | IT",
+    "dateDisplay": "13th October 2026",
+    "isoDate": "2026-10-13T09:30:00+05:30",
+    "timeDisplay": "9:30 AM Onwards",
+    "venue": "YNS Auditorium",
+    "videoUrl": "",
+    "announcementTicker": "⚡ NEXORA 2K26 LIVE • 13 OCT 2026 @ 9:30 AM • YNS AUDITORIUM • CSE, CST, IT FRESHERS WELCOME ⚡",
+    "heroHeadline": "WHERE INNOVATION MEETS CELEBRATION",
+    "contactEmail": "freshers2k26@srivasaviengg.ac.in",
+    "contactPhone": "+91 8818 284355"
+  },
+  "logs": [
+    {
+      "id": "log-1791434783995-wa49o",
+      "rollNumber": "23A91A0001",
+      "studentName": "Fresher Student",
+      "generatedAt": "2026-10-08T04:46:23.995Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791434100936-w9d8i",
+      "rollNumber": "23A91A0001",
+      "studentName": "Fresher Student",
+      "generatedAt": "2026-10-08T04:35:00.936Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791433846594-hwvoz",
+      "rollNumber": "23A91A0001",
+      "studentName": "Fresher Student",
+      "generatedAt": "2026-10-08T04:30:46.594Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791433661680-n1irh",
+      "rollNumber": "23A91A0001",
+      "studentName": "Fresher Student",
+      "generatedAt": "2026-10-08T04:27:41.680Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791433261010-gocul",
+      "rollNumber": "23A91A0001",
+      "studentName": "Vardhan Poppoppula",
+      "generatedAt": "2026-10-08T04:21:01.010Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791432069762-jxyh5",
+      "rollNumber": "23A91A0001",
+      "studentName": "Vardhan Poppoppula",
+      "generatedAt": "2026-10-08T04:01:09.762Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791431973714-55dyf",
+      "rollNumber": "23A91A0501",
+      "studentName": "Ananya Sharma",
+      "generatedAt": "2026-10-08T03:59:33.714Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791431973629-cvlnh",
+      "rollNumber": "23A91A0001",
+      "studentName": "Rahul Kumar",
+      "generatedAt": "2026-10-08T03:59:33.629Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791428867909-f69oj",
+      "rollNumber": "23A91A0501",
+      "studentName": "pkm vardhan",
+      "generatedAt": "2026-10-08T03:07:47.909Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791428521367-vhy7q",
+      "rollNumber": "23A91A0501",
+      "studentName": "Ananya Sharma",
+      "generatedAt": "2026-10-08T03:02:01.367Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-1791428521325-iabms",
+      "rollNumber": "23A91A0001",
+      "studentName": "Rahul Kumar",
+      "generatedAt": "2026-10-08T03:02:01.325Z",
+      "ipHash": "::1"
+    },
+    {
+      "id": "log-seed-1",
+      "rollNumber": "23A91A0501",
+      "studentName": "Ananya Sharma",
+      "generatedAt": "2026-10-07T18:58:19.053Z",
+      "ipHash": "127.0.0.1"
+    }
+  ],
+  "adminPasswordHash": "$2a$10$EAgpYT9RIL0tWBysJwBJgO13PZWMPaYpID3K2M7L/h4tODqWcHgqO",
+  "passes": [
+    {
+      "token": "nx26_45402209a21100f1f432327f359aa04243dc",
+      "rollNumber": "23A91A0001",
+      "studentName": "Fresher Student",
+      "department": "CSE",
+      "createdAt": "2026-10-08T04:46:23.716Z"
+    },
+    {
+      "token": "nx26_ccac83d51f881e175f81fe707891b648aa4d",
+      "rollNumber": "23A91A0501",
+      "studentName": "Ananya Sharma",
+      "department": "CSE",
+      "createdAt": "2026-10-08T03:59:33.669Z"
+    }
+  ]
+}

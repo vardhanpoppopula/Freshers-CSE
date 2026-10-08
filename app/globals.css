@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@600;700;800;900&family=JetBrains+Mono:wght@400;500;700&family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Great+Vibes&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #030712;
+  --bg-secondary: #050b18;
+  --bg-card: rgba(13, 23, 51, 0.7);
+  --gold-metallic: #ffd700;
+  --gold-glow: rgba(245, 158, 11, 0.5);
+  --blue-electric: #00d2ff;
+  --purple-glow: #a855f7;
+  --fire-orange: #f97316;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: #f8fafc;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  overflow-x: hidden;
+  selection-background-color: #f59e0b;
+  selection-color: #030712;
+}
+
+::selection {
+  background: rgba(245, 158, 11, 0.85);
+  color: #030712;
+}
+
+/* Custom Futuristic Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #02050e;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #d97706, #3b82f6);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #f59e0b, #60a5fa);
+}
+
+/* Typography Helpers */
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+.font-cinzel-dec {
+  font-family: 'Cinzel Decorative', serif;
+}
+.font-outfit {
+  font-family: 'Outfit', sans-serif;
+}
+.font-script {
+  font-family: 'Great Vibes', cursive;
+}
+.font-code {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Shimmering Metallic Gold Text */
+.text-gold-metallic {
+  background: linear-gradient(
+    135deg,
+    #fff7c2 0%,
+    #ffd700 25%,
+    #f59e0b 50%,
+    #d97706 70%,
+    #fff3a1 85%,
+    #fef08a 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 16px rgba(245, 158, 11, 0.45));
+}
+
+.text-gold-bright {
+  background: linear-gradient(180deg, #ffffff 0%, #ffd700 60%, #eab308 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-electric-blue {
+  background: linear-gradient(135deg, #e0f2fe 0%, #38bdf8 50%, #00d2ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 12px rgba(0, 210, 255, 0.4));
+}
+
+.text-fire-orange {
+  background: linear-gradient(135deg, #fed7aa 0%, #fb923c 40%, #ea580c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 14px rgba(234, 88, 12, 0.5));
+}
+
+/* Glassmorphism Containers */
+.glass-panel {
+  background: rgba(10, 18, 41, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(234, 179, 8, 0.18);
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.glass-panel:hover {
+  border-color: rgba(234, 179, 8, 0.4);
+}
+
+.glass-panel-blue {
+  background: rgba(8, 19, 44, 0.75);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(56, 189, 248, 0.25);
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.6), 0 0 20px rgba(0, 210, 255, 0.15);
+}
+
+.glass-panel-purple {
+  background: rgba(20, 12, 40, 0.75);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(168, 85, 247, 0.25);
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.6), 0 0 20px rgba(168, 85, 247, 0.15);
+}
+
+/* Gold Frame Accents */
+.gold-ornament-border {
+  position: relative;
+}
+.gold-ornament-border::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(245, 158, 11, 0.7) 50%,
+    transparent 100%
+  );
+  border-radius: inherit;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Glowing Border Effect */
+.glow-border {
+  position: relative;
+  border-radius: 1rem;
+}
+.glow-border::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(135deg, #ffd700, #38bdf8, #a855f7, #f97316);
+  border-radius: inherit;
+  z-index: -1;
+  opacity: 0.3;
+  transition: opacity 0.3s ease;
+}
+.glow-border:hover::after {
+  opacity: 0.8;
+  filter: blur(4px);
+}
+
+/* Neon buttons */
+.btn-gold-epic {
+  background: linear-gradient(135deg, #ffd700 0%, #f59e0b 50%, #d97706 100%);
+  color: #030712;
+  font-weight: 700;
+  box-shadow: 0 0 25px rgba(245, 158, 11, 0.45);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.btn-gold-epic:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 0 40px rgba(255, 215, 0, 0.75);
+}
+
+.btn-cyan-epic {
+  background: linear-gradient(135deg, #38bdf8 0%, #00d2ff 50%, #0284c7 100%);
+  color: #030712;
+  font-weight: 700;
+  box-shadow: 0 0 25px rgba(0, 210, 255, 0.4);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.btn-cyan-epic:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 0 35px rgba(0, 210, 255, 0.7);
+}
+
+/* Cyber subtle grid */
+.cyber-grid {
+  background-size: 50px 50px;
+  background-image: 
+    linear-gradient(to right, rgba(56, 189, 248, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(56, 189, 248, 0.05) 1px, transparent 1px);
+}
+
+/* Radiant Cosmic Glows */
+.cosmic-nebula-blue {
+  background: radial-gradient(circle, rgba(0, 210, 255, 0.18) 0%, transparent 70%);
+  filter: blur(60px);
+}
+.cosmic-nebula-purple {
+  background: radial-gradient(circle, rgba(168, 85, 247, 0.22) 0%, transparent 70%);
+  filter: blur(60px);
+}
+.cosmic-nebula-gold {
+  background: radial-gradient(circle, rgba(245, 158, 11, 0.2) 0%, transparent 70%);
+  filter: blur(60px);
+}
+
+/* Shimmer Animation */
+@keyframes shimmerAnim {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.animate-shimmer-sweep {
+  animation: shimmerAnim 3s infinite;
+}
+
+/* Scanline Effect */
+.scanlines {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%, 
+    rgba(0, 0, 0, 0.25) 50%
+  );
+  background-size: 100% 4px;
+  pointer-events: none;
+}
